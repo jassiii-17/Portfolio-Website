@@ -1,0 +1,18 @@
+/*selector(Who) { property(What) : value(How); }*/
+body {
+  background-color: #cbe4de;
+}
+hr {
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  /*all properties should be in alphabetic order*/
+}
+h1 {
+  color: #66bfbf;
+}
+h2 {
+  color: #66bfbf;
+}
